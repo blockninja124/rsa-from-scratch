@@ -51,3 +51,6 @@ It includes secure key exchange, message encryption, and message signing.
 However, I do know of two security weaknesses in the current implementation:
 1. Padding is not appended to the beginning of messages, so a replay attack could be performed
 2. There is no certificate authority for public keys, a man in the middle could pretend to be Bob from the beginning.
+
+## AI Usage
+I did not use any LLMs or other form of "AI" for this project. All code was created by me.
